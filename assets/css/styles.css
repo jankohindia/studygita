@@ -1,0 +1,14 @@
+.brand {
+  background: url(../images/logo2.jpg) no-repeat center center;
+  background-size: cover;
+  width: 256px;
+  height: 144px;
+  margin: auto;
+  text-align: center;
+  text-indent: -9999px;
+}
+.carousel img {
+  height: 50vh !important;
+  width: auto !important;
+  margin: auto;
+}
